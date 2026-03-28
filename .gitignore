@@ -1,0 +1,4 @@
+# Ignore the specific files and folders
+exports/
+uploads/
+.env
